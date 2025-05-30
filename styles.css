@@ -2475,10 +2475,10 @@ p.contact-desc {
     border-radius: 8px;
   }
   .about-step-video {
-    padding: 16px 8px 0 8px;
+    padding: 16px 16px 0 16px;
   }
   .about-step-desc {
-    padding: 16px 8px 16px 8px;
+    padding: 16px;
   }
   .about-step-desc h3 {
     font-size: 1.2rem;
